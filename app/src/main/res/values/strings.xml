@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobilProgramlamaOdev</string>
+    <string name="hakkinda_baslik">Hakkında</string>
+    <string name="adsoyad">Halil İbrahim Balçık</string>
+    <string name="okulno">191130089</string>
+    <string name="hakkimda">Yazılım hayatımda hedefim Apple, Google gibi büyük şirketlerde yazılım geliştirme ekibinde çalışmak istiyorum. Şu an ise kendimi öncelikli olarak ingilizce, C# ve Java alanında geliştirmeye çalışıyorum.</string>
+</resources>
